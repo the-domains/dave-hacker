@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Dave Hacker]]></title>
         <description><![CDATA[Dave Hacker]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/dave-hacker/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 18 Oct 2015 21:27:12 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 18 Oct 2015 22:19:33 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/dave-hacker/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://www.photographersgallery.com/i/full/tower_bridge.jpg">]]></description>
+            <link>https://thegrid.ai/dave-hacker/781492e0-5916-4fef-b753-677deb4bcd97/index.html</link>
+            <guid isPermaLink="false">781492e0-5916-4fef-b753-677deb4bcd97</guid>
+            <pubDate>Sun, 18 Oct 2015 22:19:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Dave Hacker Photography</p>]]></description>
-            <link>undefinedb9dc94ef-2a0f-4e50-8134-d39c7c22670e/index.html</link>
+            <link>https://thegrid.ai/dave-hacker/b9dc94ef-2a0f-4e50-8134-d39c7c22670e/index.html</link>
             <guid isPermaLink="false">b9dc94ef-2a0f-4e50-8134-d39c7c22670e</guid>
             <pubDate>Sun, 18 Oct 2015 21:26:58 GMT</pubDate>
         </item>
